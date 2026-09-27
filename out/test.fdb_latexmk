@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1789837691.714 "test.tex" "G:/ALL PROGRAM FILES/JAVA_Intellij/Projects/Text_Editor/out/test.pdf" "test" 1789837692.1112 0
+  "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789837543 121421 986c656c18d5dae14116b93751df729f ""
+  "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1789836987 13360545 e38804de46d53f76894aabd8366bcaa0 ""
+  "G:/ALL PROGRAM FILES/JAVA_Intellij/Projects/Text_Editor/out/test.aux" 1789837692 132 63d28199cceb91b9d70a1de2c7314763 "pdflatex"
+  "G:/MikeTex/MIKETEX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "G:/MikeTex/MIKETEX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "G:/MikeTex/MIKETEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "G:/MikeTex/MIKETEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "G:/MikeTex/MIKETEX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "G:/MikeTex/MIKETEX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "G:/MikeTex/MIKETEX/tex/latex/base/article.cls" 1780057299 20144 e6010938fb17dfbae90a243ad7cf351d ""
+  "G:/MikeTex/MIKETEX/tex/latex/base/size10.clo" 1780057299 8448 f7d8bfe7b7a3986fbf9022b21b7800cc ""
+  "G:/MikeTex/MIKETEX/tex/latex/l3kernel/l3backend-pdftex.def" 1786970739 31615 2ca990bd5ca4d9a48b0fffd073e6d6fe ""
+  "test.tex" 1789837690 261 d89db1e9cde8b6c010b07be928e93115 ""
+  (generated)
+  "G:/ALL PROGRAM FILES/JAVA_Intellij/Projects/Text_Editor/out/test.aux"
+  "G:/ALL PROGRAM FILES/JAVA_Intellij/Projects/Text_Editor/out/test.log"
+  "G:/ALL PROGRAM FILES/JAVA_Intellij/Projects/Text_Editor/out/test.pdf"
+  (rewritten before read)
