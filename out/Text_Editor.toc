@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}Project Overview}{2}{}%
-\contentsline {section}{\numberline {2}Java Fundamentals}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Variables}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Arrays}{2}{}%
-\contentsline {section}{\numberline {3}Game Development}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Game Loop}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Rendering}{2}{}%
